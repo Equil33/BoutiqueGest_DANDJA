@@ -1,2 +1,2 @@
 # BoutiqueGest_DANDJA
-Dépot de projet django
+Dépot projet django de fin semestre; DANDJA Kandifayi Faiz Basile IT211.
